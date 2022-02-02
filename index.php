@@ -12,5 +12,7 @@
 	<a href="about.php">About</a><br>
 	<a href="contact_us.php">Contact Us</a><br>
 	<a href="carier.php">Carier</a><br>
+	<a href="carier.php">New Carier</a><br>
+	<a href="detail_info.php">Detail Info</a><br>
 </body>
 </html>
