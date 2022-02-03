@@ -15,5 +15,6 @@
 	<a href="carier.php">New Carier</a><br>
 	<a href="detail_info.php">Detail Info</a><br>
 	<a href="curl_setup.php">Curl Setup</a><br>
+	<a href="google_drive_upload.php">Google Drive Upload</a><br>
 </body>
 </html>
